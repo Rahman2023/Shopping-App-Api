@@ -30,3 +30,5 @@ $ git clone https://github.com/Rahman2023/Shopping-App-Api.git
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
 
+7) After Showing this msg Cloning was completed.Now you can change the code and create newproject.
+
