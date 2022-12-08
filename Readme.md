@@ -44,12 +44,13 @@ step 3 : Open our project in any editor.I prefered visual studio code and go to 
 ![Screenshot (41)](https://user-images.githubusercontent.com/109596307/202861097-1badd07e-1a66-41a0-94d9-91f7a214fcfb.png)
  Now first thing we need to do , changing the database password. Here change the password , Whatever we use to loging into mysql on our machine.
  
- step 4 : Now we need to install our project dependencies , so we open a terminal window . go to project path folder using 
+ step 4 : Now we need to install our project dependencies , so we open a terminal window .
+          go to project path folder using 
           command : cd 
           for mac :
-          Run : pipenv install
+          command : pipenv install
           for windows :
-          Run : py -m venv .
+          command : py -m venv 
           ![Screenshot (42)](https://user-images.githubusercontent.com/109596307/202861584-248e4cef-d875-47c4-9645-83c29ebe805e.png)
           
 step 5 : Active our vitual environment.
